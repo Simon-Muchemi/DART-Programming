@@ -8,5 +8,5 @@ void main(){
     3: 'Picture frame',
     4: '3P Suit'
   };
-  print(gifts.length);
+  print(gifts);
 }
