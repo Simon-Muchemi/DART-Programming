@@ -34,7 +34,7 @@ void main(){
   Person Simon = Person('Simon Cowell', 275);
   var kid = Person.child();
 
-  kid.showDetails();
+  kid.showDetails(); 
   Simon.showDetails();
   Mike.showDetails();
 }
