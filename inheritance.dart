@@ -24,5 +24,5 @@ class car extends Vehicle {
 
 void main(){
   car benz = car('Benz', 2015, 12000000);
-benz.showDetails();
+  benz.showDetails();
 }
